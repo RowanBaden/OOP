@@ -28,7 +28,7 @@ public class Trekkerband {
 	}
 	
 	public boolean isExpensive() {
-		return price > 1000;
+		return price > 1100;
 	}
 	
 	public void printDetails() {
